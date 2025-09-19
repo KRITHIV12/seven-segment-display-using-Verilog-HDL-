@@ -83,7 +83,7 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
+<img width="1915" height="1197" alt="7 segment" src="https://github.com/user-attachments/assets/0800d7a3-e151-4bf0-ad39-f8784be45336" />
 
 ---
 
